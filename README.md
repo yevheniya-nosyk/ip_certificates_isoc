@@ -1,4 +1,4 @@
-# Let's Encrypt IPs: Tracking the Evolution of Trusted TLS Certificates for IP Addresses
+# Let’s Encrypt IPs: Tracking the Evolution of IP X.509 Certificates
 
 This repository contains artifacts for the 2026 ISOC Pulse Fellowship project.
 
